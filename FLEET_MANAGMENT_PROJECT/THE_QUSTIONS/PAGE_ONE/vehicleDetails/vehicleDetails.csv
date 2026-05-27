@@ -1,0 +1,5 @@
+Make_and_Model,total_cost,total_Events,avg_cost_per_event,avg_km_by_vehicle,avg_Vehicle_age,Major_repair_percent,Normal_repair_percent,Minor_repair_percent
+Chevy Silverado,79105132,75058,1053.92,29811.0,8.4,37.8,23.7,38.5
+Izuzu D Max,25211132,24748,1018.71,29761.0,8.3,38.6,23.0,38.4
+Ford F-150,129168544,124456,1037.87,30114.0,8.3,38.8,22.9,38.4
+Mitsubishi L200,26463469,25063,1055.88,30064.0,8.4,38.0,23.8,38.3

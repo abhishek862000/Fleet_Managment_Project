@@ -1,0 +1,10 @@
+Maintenance_Type,Maintenance_Level,total_cost,total_events
+Engine Overhaul,Major,152834298,37870
+Engine Overhaul,Normal,46372371,11677
+Periodic service,Minor,15840431,53957
+Tire Maintence,Minor,12132480,41275
+Periodic service,Major,10044735,32675
+Tire Maintence,Major,7806310,25153
+Periodic service,Normal,7736663,25979
+Tire Maintence,Normal,6011529,20255
+Engine Overhaul,Minor,1169460,484

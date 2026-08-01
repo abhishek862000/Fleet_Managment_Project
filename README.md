@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Power%20Query-green)
 
-An end-to-end analytics project analyzing **25,000+ vehicle service logs** totaling **$260M in maintenance spend** across an 18-month period (Jan 2023 – June 2024).
+An end-to-end analytics project analyzing **25,0000+ vehicle service logs** totaling **$260M in maintenance spend** across an 18-month period (Jan 2023 – June 2024).
 
 ---
 
